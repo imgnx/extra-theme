@@ -1,0 +1,25 @@
+{
+  "name": "extra-theme",
+  "displayName": "extra-theme",
+  "description": "An Extra Theme that I had lying around...",
+  "version": "0.0.1",
+  "repository": {
+    "type": "github"
+    , "url": "https://github.com/imgnx/extra-theme"
+  },
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extra",
+        "uiTheme": "vs",
+        "path": "./themes/Extra-color-theme.json"
+      }
+    ]
+  }
+}
