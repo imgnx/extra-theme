@@ -3,9 +3,11 @@
   "displayName": "extra-theme",
   "description": "An Extra Theme that I had lying around...",
   "version": "0.0.1",
+  "license": "0BSD",
+  "publisher": "imgnx-org",
   "repository": {
-    "type": "github"
-    , "url": "https://github.com/imgnx/extra-theme"
+    "type": "github",
+    "url": "https://github.com/imgnx/extra-theme"
   },
   "engines": {
     "vscode": "^1.107.0"
